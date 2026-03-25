@@ -51,6 +51,10 @@ This project focuses on analyzing hotel booking data to understand customer beha
 [Click to View](dashboard/dashboard.png)
 
 ---
+## 🎥 Dashboard Demo (Video)
+
+Watch the interactive dashboard here:  
+👉 [Click to view demo](https://drive.google.com/file/d/1jR7dpEzzEaoipe4SfVsvUSoKVH824pZW/view?usp=sharing)
 
 ## 📈 Conclusion
 
