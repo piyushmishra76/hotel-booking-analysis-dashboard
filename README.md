@@ -48,7 +48,7 @@ This project focuses on analyzing hotel booking data to understand customer beha
 
 ## 📷 Dashboard Preview
 
-[Click to View](dashboard/dashboard.png)
+[Click to View](dashboard.png)
 
 ---
 ## 🎥 Dashboard Demo (Video)
